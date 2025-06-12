@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 st.set_page_config(page_title="Memory Chatbot")
-st.title("🧠 Memory Chatbot UI")
+st.title("✨ Memory Chatbot")
 
 user_id = "test_user"
 
